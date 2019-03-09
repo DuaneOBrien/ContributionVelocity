@@ -4,8 +4,9 @@ class: center, middle, theBackground
 ## Your Company Cares About **FOSS Sustainability**
 ## But Are You **Measuring** Your Contributions?
 &nbsp;
-### **Duane O'Brien** - Head of Open Source - indeed.com
-### **Dani Gellis** - Software Engineer - indeed.com
+### **Duane O'Brien**
+### **Dani Gellis**
+### indeed.com
 &nbsp;
 ### **Permissions** Granted : 📸  📹  📰  📬  🐦
 
@@ -22,71 +23,59 @@ class: theBackground
 
 # About **Duane**
 
-
-* Past Lives :
+--
+* This Life : 👨‍🔧 Head Of Open Source at **Indeed**
 
 --
-
- * 🧙‍♂️ DevsOps-ish **Perl** Guy
---
-
- * 🧟‍♂️ **Javascript** Ruiner
---
-
- * 🤹‍♂️ **Agile** Facilitator
---
-
- * 👨‍🏭 Open Source **Enabler**
---
-
-
-* Current Life : 👨‍🔧 Head Of Open Source at **Indeed**
---
-
-
 * Next Life : 👨‍🎤+ 🧛 + 🧙‍♂️ +  🤖 = ?
 
----
+--
+* Pronouns : He/Him
+
+--
 
 # About **Dani**
 
-
-* Past Lives :
+--
+* This Life : 👩‍💻 Software Engineer, Open Source at **Indeed**
 
 --
-
- * 🧙‍♂️
---
-
- * 🧟‍♂️
---
-
- * 🤹‍♂️
---
-
- * 👨‍🏭
---
-
-
-* Current Life : 👨‍🔧
---
-
-
 * Next Life : 👨‍🎤+ 🧛 + 🧙‍♂️ +  🤖 = ?
+
+--
+* Pronouns : She/Her
+
+---
+# Overview
+
+--
+* ### Program **Overview**
+
+--
+* ### What We Decided To Measure And **Why**
+
+--
+* ### Tools We Looked At, Implemented, And **Built**
+
+--
+* ### What We Learned **So Far**
+
+--
+* ### What We'll Measure And Build **Next**
 
 ---
 # Indeed's **Open Source** Program
 --
 
-* ### Open Source Is More Than Just Software
+* ### Open Source Is **More** Than Software
 
 --
 
-* ### We Meet You Where You Are
+* ### We **Meet You** Where You Are
 
 --
 
-* ### Predictable, Long Term Support Is The Ideal
+* ### Predictable, **Long Term Support** Is The Ideal
 
 ---
 
@@ -187,6 +176,19 @@ class: center, middle, theEmphatic
 class: center, middle, theEmphatic
 
 <img src="Images/PeltingWithStones.jpg" width="80%"/>
+
+???
+
+Not all open source activity is on GitHub
+I have a whole talk about it.
+But it can give us an Accurate read, even if it's not very precise
+
+
+---
+
+class: center, middle, theEmphatic
+
+<img src="Images/GitHubTalk.png" width="80%"/>
 
 ???
 
@@ -363,6 +365,72 @@ However, we do have a form for people to tell us about their other contribs
 - Track inbound requests, for example
 
 ---
+
+class: center, middle, theEmphatic
+
+# What Have We Learned **So Far**
+
+---
+
+# Highly Active Users : **Outliers**
+
+--
+
+## How Active? **10x?**
+---
+
+# Highly Active Users : **Outliers**
+
+## How Active? ~~10x?~~ **100x!!!**
+
+--
+## Competition Discourages **New Contributors**
+
+--
+## Don't Build For **Edge Cases**
+
+--
+
+## Should Even Out **Over Time**
+
+---
+
+class: center, middle, theEmphatic
+
+# Measuring The Effect Of **Initiatives**
+
+---
+class: center, middle, theEmphatic
+
+<img src="Images/Hacktoberfest-2018.png" width="80%"  />
+
+---
+class: center, middle, theEmphatic
+
+<img src="Images/contributions-october-2018.png" width="80%" />
+
+---
+
+class: center, middle, theEmphatic
+
+# The **November** Lull
+
+---
+class: center, middle, theEmphatic
+
+<img src="Images/contributions-november-2018.png" width="80%" />
+
+---
+class: center, middle, theEmphatic
+
+<img src="Images/24PullRequests.png" width="80%"  />
+
+---
+class: center, middle, theEmphatic
+
+<img src="Images/contributions-december-2018.png" width="80%" />
+
+---
 class: center, middle, theEmphatic
 
 <img src="Images/FOSSContributorFund-Rectangle.png"  />
@@ -379,32 +447,10 @@ class: center, middle, theEmphatic
 ## Projects Must Meet **Selection Criteria**
 --
 
-## Contributors **Vote** On Allocation
----
-# FOSS **Contributor** Fund
-
-## **Dedicated** Budget Unrelated To Orgs/Confs
-
-## Projects Are **Nominated** By Employees
-
-## Projects Must Meet **Selection Criteria**
-
 ## Contributors **Vote** On Allocation : $10,000 / 🗓
 ---
 
-class: center, middle, theEmphatic
-
-# What Have We **Learned** So Far?
-
----
-
-# What Have We **Learned** So Far?
-
-## January Contributions:
-
----
-
-# What Have We **Learned** So Far?
+# FOSS **Contributor** Fund : **January**
 
 ## January Contributions: Went **Up!** 📈
 
@@ -418,23 +464,7 @@ class: center, middle, theEmphatic
 
 ---
 
-# What Have We **Learned** So Far?
-
-## January Contributions: Went **Up!** 📈
-
-## Nominated Projects:
-
----
-
-# What Have We **Learned** So Far?
-
-## January Contributions: Went **Up!** 📈
-
-## Nominated Projects: **20** Total
-
----
-
-# What Have We **Learned** So Far?
+# FOSS **Contributor** Fund : **January**
 
 ## January Contributions: Went **Up!** 📈
 
@@ -442,71 +472,109 @@ class: center, middle, theEmphatic
 
 ---
 
-# What Have We **Learned** So Far?
+# FOSS **Contributor** Fund : **February**
 
-## January Contributions: Went **Up!** 📈
-
-## Nominated Projects: **20** Total - 5 **Unknown** 🕵️‍♀️
-
-## Participation:
+## February Contributions: Went **Down...** 📉
 
 ---
 
-# What Have We **Learned** So Far?
+class: center, middle, theEmphatic
 
-## January Contributions: Went **Up!** 📈
 
-## Nominated Projects: **20** Total - 5 **Unknown** 🕵️‍♀️
-
-## Participation: **TBD** 🤷‍♂️ 🐥
+<img src="Images/contributions-february-2019.png" width="80%" />
 
 ---
 
-What Effect Our Initiatives Have (15)
+# FOSS **Contributor** Fund : **February**
+
+## February Contributions: Went **Down...** 📉
+
+## Nominated Projects: **5**
+
+???
+
+october - 34
+november - 23
+december - 27
+january - 32
+february - 26
+march - 17 (but on track with Jan)
+
 
 ---
 
-Hacktoberfest
+# FOSS **Contributor** Fund : **March**
+
+## March Contributions: **TBD** 🤷‍♂️
 
 ---
 
-The November Lull
+class: center, middle, theEmphatic
+
+
+<img src="Images/contributions-march-2019.png" width="80%" />
+---
+
+class: center, middle, theEmphatic
+
+# What We **Measure** And **Build** Next
 
 ---
 
-24 Pull Requests
+# What We **Measure** And **Build** Next
+
+## Are We **Creating** New Contributors?
+
+--
+* ### First Time Contributors Events
+
+--
+* ### Onboarding Training
+
+--
+
+## Are We **Sustaining** Projects We Use?
+
+--
+* ### OSS Compliance + Contribution Measurement = 🎉
+
+---
+# Review
+
+--
+* ### **Values** First. **Goals** Second. **Tooling** When You **Need** It.
+
+--
+* ### Be **Mindful** About What You **Measure**
+
+--
+* ### Know **Why** Before Building The **How**
+
+--
+* ### **Start** With What Exists
+
+--
+* ### The **Measurement** Is Not The **Goal**
 
 ---
 
-FOSS Contributor Fund
+class: center, middle, theEmphatic
+
+### **If you can't** MEASURE **it, you can't improve it** - Peter Drucker
+
+<img src="Images/LordKelvin.jpg" width="60%"  />
 
 ---
 
-First Time Contributors
+class: center, middle, theEmphatic
 
----
+### **If you can't** MEASURE **it, you can't** IMPROVE **it** - Peter Drucker
 
-Hackathon
+<img src="Images/LordKelvin.jpg" width="60%"  />
 
----
+???
 
-Outliers
-
----
-
-The effect on measuring contributions
-
----
-
-The effect on measuring contributors
-
----
-
-The effect over time
-
----
-
-Conclusion (5 min)
+“I often say that when you can measure what you are speaking about, and express it in numbers, you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meagre and unsatisfactory kind; it may be the beginning of knowledge, but you have scarcely, in your thoughts, advanced to the stage of science, whatever the matter may be.” - Lord Kelvin
 
 ---
 class: center, middle, theEmphatic
