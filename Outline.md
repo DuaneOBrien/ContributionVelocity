@@ -376,6 +376,7 @@ class: center, middle, theEmphatic
 
 ???
 our contributors are happy to have it for reviews
+shows: weekly and total contribs, where you're contributing
 ---
 # **Aggregate** Dashboard
 
@@ -387,10 +388,16 @@ our contributors are happy to have it for reviews
 --
 ## Useful For **Improving The Program**
 
+???
+Are our initiatives working?
+
 ---
 class: center, middle, theEmphatic
 
 <img src="Images/AggregateDashboard.png" width="90%" />
+
+???
+All contribs, contribs by month, which projects, Active Recurring Participants
 ---
 # What’s next
 1. Adding other online code repositories (Bitbucket, Apache, etc.) and organization tools (Jira, Slack, etc.)
