@@ -48,14 +48,20 @@ class: theBackground
 
 ---
 
-Program Goals And Philosophy Overview (5 min)
+# Indeed's Open Source Program
+---
+
+class: center, middle, theEmphatic
+
+<img src="Images/LordKelvin.jpg" width="80%"  />
+
+???
+
+“I often say that when you can measure what you are speaking about, and express it in numbers, you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meagre and unsatisfactory kind; it may be the beginning of knowledge, but you have scarcely, in your thoughts, advanced to the stage of science, whatever the matter may be.” - Lord Kelvin
 
 ---
 
-“You will encourage the behavior you measure”
-
----
-How We Measure Contributions (30 min)Le
+How We Measure Contributions (30 min)
 
 ---
 
@@ -67,7 +73,10 @@ Not Just Code
 
 ---
 
-GitHub’s New Cross Indicator
+class: center, middle, theEmphatic
+
+<img src="Images/ActivityIndicator1.png" /><img src="Images/ActivityIndicator2.png" />
+
 
 ---
 
