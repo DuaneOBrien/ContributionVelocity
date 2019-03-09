@@ -70,7 +70,7 @@ class: theBackground
 --
 
 
-* Current Life : 👨‍🔧 
+* Current Life : 👨‍🔧
 --
 
 
@@ -356,14 +356,21 @@ decided to use Indeed's OS project
 #Contributor Dashboard
 ### allows each Indeedian to see their own contributions
 #### Useful for quarterly reviews!
-<img src="Images/PICWILLGOHERE"  />
+---
+class: center, middle, theEmphatic
+
+<img src="Images/IndividualDashboard.png" width="80%" />
+
 ???
 our contributors are happy to have it for reviews
 ---
 # Aggregate Dashboard
 ### Used by the Open Source Program Office
 #### Allows us to keep track of contribs by all Indeedians and, therefore, how we’re doing
-<img src="Images/PICWILLGOHERE"  />
+---
+class: center, middle, theEmphatic
+
+<img src="Images/AggregateDashboard.png" width="80%" />
 ---
 # What’s next
 1. Adding other online code repositories (Bitbucket, Apache, etc.) and organization tools (Jira, Slack, etc.)
