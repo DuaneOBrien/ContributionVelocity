@@ -365,6 +365,53 @@ However, we do have a form for people to tell us about their other contribs
 - Track inbound requests, for example
 
 ---
+
+class: center, middle, theEmphatic
+
+# What Have We Learned **So Far**
+
+---
+
+# Highly Active Users : **Outliers**
+
+--
+
+## How Active? **10x?**
+---
+
+# Highly Active Users : **Outliers**
+
+## How Active? ~~10x?~~ **100x!!!**
+
+--
+## Competition Discourages **New Contributors**
+
+--
+## Don't Build For **Edge Cases**
+
+--
+
+## Should Even Out **Over Time**
+
+---
+
+class: center, middle, theEmphatic
+
+# Measuring The Effect Of **Initiatives**
+
+---
+
+Hacktoberfest
+
+---
+
+The November Lull
+
+---
+
+24 Pull Requests
+
+---
 class: center, middle, theEmphatic
 
 <img src="Images/FOSSContributorFund-Rectangle.png"  />
@@ -381,29 +428,7 @@ class: center, middle, theEmphatic
 ## Projects Must Meet **Selection Criteria**
 --
 
-## Contributors **Vote** On Allocation
----
-# FOSS **Contributor** Fund
-
-## **Dedicated** Budget Unrelated To Orgs/Confs
-
-## Projects Are **Nominated** By Employees
-
-## Projects Must Meet **Selection Criteria**
-
 ## Contributors **Vote** On Allocation : $10,000 / 🗓
----
-
-class: center, middle, theEmphatic
-
-# What Have We **Learned** So Far?
-
----
-
-# What Have We **Learned** So Far?
-
-## January Contributions:
-
 ---
 
 # What Have We **Learned** So Far?
@@ -424,91 +449,105 @@ class: center, middle, theEmphatic
 
 ## January Contributions: Went **Up!** 📈
 
-## Nominated Projects:
-
----
-
-# What Have We **Learned** So Far?
-
-## January Contributions: Went **Up!** 📈
-
-## Nominated Projects: **20** Total
-
----
-
-# What Have We **Learned** So Far?
-
-## January Contributions: Went **Up!** 📈
-
 ## Nominated Projects: **20** Total - 5 **Unknown** 🕵️‍♀️
 
----
-
-# What Have We **Learned** So Far?
-
-## January Contributions: Went **Up!** 📈
-
-## Nominated Projects: **20** Total - 5 **Unknown** 🕵️‍♀️
-
-## Participation:
-
----
-
-# What Have We **Learned** So Far?
-
-## January Contributions: Went **Up!** 📈
-
-## Nominated Projects: **20** Total - 5 **Unknown** 🕵️‍♀️
+--
 
 ## Participation: **TBD** 🤷‍♂️ 🐥
 
 ---
 
-What Effect Our Initiatives Have (15)
+# What Have We **Learned** So Far?
+
+## February Contributions: Went **Down...** 📉
 
 ---
 
-Hacktoberfest
+class: center, middle, theEmphatic
+
+
+<img src="Images/contributions-february-2019.png" width="80%" />
 
 ---
 
-The November Lull
+# What Have We **Learned** So Far?
+
+## February Contributions: Went **Down...** 📉
+
+## Nominated Projects: **5**
+
+--
+
+## Participation: **TBD** 🤷‍♂️ 🐥
 
 ---
 
-24 Pull Requests
+# What Have We **Learned** So Far?
+
+## March Contributions: **TBD** 🤷‍♂️
 
 ---
 
-FOSS Contributor Fund
+class: center, middle, theEmphatic
+
+# What We **Measure** And **Build** Next
 
 ---
 
-First Time Contributors
+# What We **Measure** And **Build** Next
+
+## Are We **Creating** New Contributors?
+
+--
+* ### First Time Contributors Events
+
+--
+* ### Onboarding Training
+
+--
+
+## Are We **Sustaining** Projects We Use?
+
+--
+* ### OSS Compliance + Contribution Measurement = 🎉
+
+---
+# Review
+
+--
+* ### **Values** First. **Goals** Second. **Tooling** When You **Need** It.
+
+--
+* ### Be **Mindful** About What You **Measure**
+
+--
+* ### Know **Why** Before Building The **How**
+
+--
+* ### **Start** With What Exists
+
+--
+* ### The **Measurement** Is Not The **Goal**
 
 ---
 
-Hackathon
+class: center, middle, theEmphatic
+
+### **If you can't** MEASURE **it, you can't improve it** - Peter Drucker
+
+<img src="Images/LordKelvin.jpg" width="60%"  />
 
 ---
 
-Outliers
+class: center, middle, theEmphatic
 
----
+### **If you can't** MEASURE **it, you can't** IMPROVE **it** - Peter Drucker
 
-The effect on measuring contributions
+<img src="Images/LordKelvin.jpg" width="60%"  />
 
----
+???
 
-The effect on measuring contributors
-
----
-
-The effect over time
-
----
-
-Conclusion (5 min)
+“I often say that when you can measure what you are speaking about, and express it in numbers, you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meagre and unsatisfactory kind; it may be the beginning of knowledge, but you have scarcely, in your thoughts, advanced to the stage of science, whatever the matter may be.” - Lord Kelvin
 
 ---
 class: center, middle, theEmphatic
