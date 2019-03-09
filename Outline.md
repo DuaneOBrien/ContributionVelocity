@@ -4,8 +4,9 @@ class: center, middle, theBackground
 ## Your Company Cares About **FOSS Sustainability**
 ## But Are You **Measuring** Your Contributions?
 &nbsp;
-### **Duane O'Brien** - Head of Open Source - indeed.com
-### **Dani Gellis** - Software Engineer - indeed.com
+### **Duane O'Brien**
+### **Dani Gellis**
+### indeed.com
 &nbsp;
 ### **Permissions** Granted : 📸  📹  📰  📬  🐦
 
@@ -22,71 +23,59 @@ class: theBackground
 
 # About **Duane**
 
-
-* Past Lives :
+--
+* This Life : 👨‍🔧 Head Of Open Source at **Indeed**
 
 --
-
- * 🧙‍♂️ DevsOps-ish **Perl** Guy
---
-
- * 🧟‍♂️ **Javascript** Ruiner
---
-
- * 🤹‍♂️ **Agile** Facilitator
---
-
- * 👨‍🏭 Open Source **Enabler**
---
-
-
-* Current Life : 👨‍🔧 Head Of Open Source at **Indeed**
---
-
-
 * Next Life : 👨‍🎤+ 🧛 + 🧙‍♂️ +  🤖 = ?
 
----
+--
+* Pronouns : He/Him
+
+--
 
 # About **Dani**
 
-
-* Past Lives :
+--
+* This Life : 👩‍💻 Software Engineer, Open Source at **Indeed**
 
 --
-
- * 🧙‍♂️
---
-
- * 🧟‍♂️
---
-
- * 🤹‍♂️
---
-
- * 👨‍🏭
---
-
-
-* Current Life : 👨‍🔧
---
-
-
 * Next Life : 👨‍🎤+ 🧛 + 🧙‍♂️ +  🤖 = ?
+
+--
+* Pronouns : She/Her
+
+---
+# Overview
+
+--
+* ### Program **Overview**
+
+--
+* ### What We Decided To Measure And **Why**
+
+--
+* ### Tools We Looked At, Implemented, And **Built**
+
+--
+* ### What We Learned **So Far**
+
+--
+* ### What We'll Measure And Build **Next**
 
 ---
 # Indeed's **Open Source** Program
 --
 
-* ### Open Source Is More Than Just Software
+* ### Open Source Is **More** Than Software
 
 --
 
-* ### We Meet You Where You Are
+* ### We **Meet You** Where You Are
 
 --
 
-* ### Predictable, Long Term Support Is The Ideal
+* ### Predictable, **Long Term Support** Is The Ideal
 
 ---
 
