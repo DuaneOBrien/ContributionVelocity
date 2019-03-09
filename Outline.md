@@ -23,27 +23,59 @@ class: theBackground
 
 # About **Duane**
 
---
-* This Life : 👨‍🔧 Head Of Open Source at **Indeed**
+
+* Past Lives :
 
 --
+
+ * 🧙‍♂️ DevsOps-ish **Perl** Guy
+--
+
+ * 🧟‍♂️ **Javascript** Ruiner
+--
+
+ * 🤹‍♂️ **Agile** Facilitator
+--
+
+ * 👨‍🏭 Open Source **Enabler**
+--
+
+
+* Current Life : 👨‍🔧 Head Of Open Source at **Indeed**
+--
+
+
 * Next Life : 👨‍🎤+ 🧛 + 🧙‍♂️ +  🤖 = ?
 
---
-* Pronouns : He/Him
 
---
+---
 
 # About **Dani**
 
---
-* This Life : 👩‍💻 Software Engineer, Open Source at **Indeed**
+
+* Past Lives :
 
 --
+
+ * 🧙‍♂️
+--
+
+ * 🧟‍♂️
+--
+
+ * 🤹‍♂️
+--
+
+ * 👨‍🏭
+--
+
+
+* Current Life : 👨‍🔧 
+--
+
+
 * Next Life : 👨‍🎤+ 🧛 + 🧙‍♂️ +  🤖 = ?
 
---
-* Pronouns : She/Her
 
 ---
 # Overview
