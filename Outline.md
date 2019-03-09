@@ -1,10 +1,13 @@
 
 class: center, middle, theBackground
 
-# Your Company Cares About Open Source Sustainability. But Are You Measuring Your Contributions?
-## **Duane O'Brien, Dani Gellis, ** indeed.com
-#### **@DuaneOBrien, @Danisyellis**
-#### **Permissions** Granted : 📸  📹  📰  📬  🐦
+## Your Company Cares About **FOSS Sustainability**
+## But Are You **Measuring** Your Contributions?
+&nbsp;
+### **Duane O'Brien** - Head of Open Source - indeed.com
+### **Dani Gellis** - Software Engineer - indeed.com
+&nbsp;
+### **Permissions** Granted : 📸  📹  📰  📬  🐦
 
 ---
 
@@ -13,7 +16,7 @@ class: theBackground
 
 .footnote-bg[]
 
-.footnote[@DuaneOBrien | duaneo@indeed.com | Made with [Remark](http://remarkjs.com/)]
+.footnote[@DuaneOBrien | @DanisYellis | Made with [Remark](http://remarkjs.com/)]
 
 ---
 
@@ -42,6 +45,80 @@ class: theBackground
 
 
 * Next Life : 👨‍🎤+ 🧛 + 🧙‍♂️ +  🤖 = ?
+
+---
+# Indeed's Open Source Program
+---
+
+class: center, middle, theEmphatic
+
+# "If you can't measure it, you can't improve it." - Peter Drucker
+---
+
+class: center, middle, theEmphatic
+
+# Peter Drucker
+
+<img src="Images/LordKelvin.jpg" width="60%"  />
+
+???
+
+“I often say that when you can measure what you are speaking about, and express it in numbers, you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meagre and unsatisfactory kind; it may be the beginning of knowledge, but you have scarcely, in your thoughts, advanced to the stage of science, whatever the matter may be.” - Lord Kelvin
+
+---
+
+How We Measure Contributions (30 min)
+
+---
+
+What’s A Contribution
+
+---
+
+Not Just Code
+
+---
+
+class: center, middle, theEmphatic
+
+<img src="Images/ActivityIndicator1.png" /><img src="Images/ActivityIndicator2.png" />
+
+
+---
+
+“Company Related”
+
+---
+
+Potato Metrics
+
+---
+
+GitHub Is Not Your Resume
+
+---
+
+How we captured/capture non-github requests (and why)
+
+---
+
+What Not To Measure And Why
+
+---
+
+Contributions
+
+---
+
+Lines of Code
+
+---
+
+Default to Open - do we share the raw numbers?
+
+---
+
+Active Recurring Participants
 
 ---
 class: center, middle, theEmphatic
@@ -287,6 +364,54 @@ class: center, middle, theEmphatic
 ## Nominated Projects: **20** Total - 5 **Unknown** 🕵️‍♀️
 
 ## Participation: **TBD** 🤷‍♂️ 🐥
+
+---
+
+What Effect Our Initiatives Have (15)
+
+---
+
+Hacktoberfest
+
+---
+
+The November Lull
+
+---
+
+24 Pull Requests
+
+---
+
+FOSS Contributor Fund
+
+---
+
+First Time Contributors
+
+---
+
+Hackathon
+
+---
+
+Outliers
+
+---
+
+The effect on measuring contributions
+
+---
+
+The effect on measuring contributors
+
+---
+
+The effect over time
+
+---
+
+Conclusion (5 min)
 
 ---
 class: center, middle, theEmphatic
