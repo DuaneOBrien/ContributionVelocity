@@ -57,24 +57,24 @@ class: theBackground
 
 --
 
- * 🧙‍♂️
+ * 👩‍🚒 AmeriCorps Member
 --
 
- * 🧟‍♂️
+ * 🌲 Backpacking Trip Leader and Outdoor Educator
 --
 
- * 🤹‍♂️
+ * 👩🏻‍💻 Software Engineering Intern
 --
 
- * 👨‍🏭
---
-
-
-* Current Life : 👨‍🔧
+ * 🙋🏻‍♀️ Coding Instructor
 --
 
 
-* Next Life : 👨‍🎤+ 🧛 + 🧙‍♂️ +  🤖 = ?
+* Current Life : 👧🏻 Tools Engineer for Indeed Open Source
+--
+
+
+* Next Life : 👩🏼‍🎤+ 👩‍🚀 + 🧚‍♀️ +  🤖 = ?
 
 
 ---
@@ -248,11 +248,17 @@ class: center, middle, theEmphatic
 ???
 
 How we captured/capture non-github requests (and why)
-
 ---
 class: center, middle, theEmphatic
 
-# The Challenge (and opportunity)
+# Tooling
+--
+
+ ## The Challenge (and opportunity)
+ ### We’re measuring something different
+
+---
+class: center, middle, theEmphatic
 ## We’re measuring something different
 ### Indeed Employee (User) contributions
 ### vs.
@@ -289,9 +295,9 @@ Org/Project-oriented, not User oriented
 ---
 # Microsoft’s Github Crawler
 ### Gets information about events on GitHub
-#### but it is Org/Repo focused
+#### But, it's Org/Repo focused
 ####  Yes, we _CAN_ adapt it
-##### Positives and negatives
+##### Pros and Cons
 ???
 like all the others, org/repo focused
 Seemed easiest to get it to do what we wanted. And, in JS, which is what I know and I was the only engineer (growing team)
