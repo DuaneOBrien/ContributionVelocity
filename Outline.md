@@ -413,7 +413,7 @@ class: center, middle, theEmphatic
 
 class: center, middle, theEmphatic
 
-# The November Lull
+# The **November** Lull
 
 ---
 class: center, middle, theEmphatic
@@ -450,7 +450,7 @@ class: center, middle, theEmphatic
 ## Contributors **Vote** On Allocation : $10,000 / 🗓
 ---
 
-# What Have We **Learned** So Far?
+# FOSS **Contributor** Fund : **January**
 
 ## January Contributions: Went **Up!** 📈
 
@@ -464,19 +464,15 @@ class: center, middle, theEmphatic
 
 ---
 
-# What Have We **Learned** So Far?
+# FOSS **Contributor** Fund : **January**
 
 ## January Contributions: Went **Up!** 📈
 
 ## Nominated Projects: **20** Total - 5 **Unknown** 🕵️‍♀️
 
---
-
-## Participation: **TBD** 🤷‍♂️ 🐥
-
 ---
 
-# What Have We **Learned** So Far?
+# FOSS **Contributor** Fund : **February**
 
 ## February Contributions: Went **Down...** 📉
 
@@ -489,22 +485,34 @@ class: center, middle, theEmphatic
 
 ---
 
-# What Have We **Learned** So Far?
+# FOSS **Contributor** Fund : **February**
 
 ## February Contributions: Went **Down...** 📉
 
 ## Nominated Projects: **5**
 
---
+???
 
-## Participation: **TBD** 🤷‍♂️ 🐥
+october - 34
+november - 23
+december - 27
+january - 32
+february - 26
+march - 17 (but on track with Jan)
+
 
 ---
 
-# What Have We **Learned** So Far?
+# FOSS **Contributor** Fund : **March**
 
 ## March Contributions: **TBD** 🤷‍♂️
 
+---
+
+class: center, middle, theEmphatic
+
+
+<img src="Images/contributions-march-2019.png" width="80%" />
 ---
 
 class: center, middle, theEmphatic
