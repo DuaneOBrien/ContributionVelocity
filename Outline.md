@@ -285,13 +285,10 @@ class: center, middle, theEmphatic
 
 ???
 Looked at 4 or 5 different tools- Netflix OSS Dashboard, Amazon's OSS Dashboard, Bitergia
-Started with github because there are tools for gh and a robust API, and it’s where most, though not all, of the contributing is happening anyway
-Bitergia has a solution that looks at more than just github, but, like all the tools-
-Org/Project-oriented, not User oriented
-			Getting ORG users gives us non-indeed employees
-			Getting ORG users misses some indeed employees
-			“N users that may not relate to an org”
-
+  They are all Org/Project oriented, not User
+    Getting all users for an ORG gives us some people we don't care about
+    And misses some indeed employees
+      who contribute to OS, but not with Indeed
 ---
 # Microsoft’s Github Crawler
 ### Gets information about events on GitHub
@@ -299,16 +296,17 @@ Org/Project-oriented, not User oriented
 ####  Yes, we _CAN_ adapt it
 ##### Pros and Cons
 ???
-like all the others, org/repo focused
-Seemed easiest to get it to do what we wanted. And, in JS, which is what I know and I was the only engineer (growing team)
+Started with github because there are lots of tools for it, it has a robust API, and it’s where most, though not all, of the contributing is happening anyway
+Bitergia has a solution that looks at more than just github, but,
+ crawler seemed easiest. In JS, which is what I know and I was the only engineer (growing team)
 
+ Positives:
+ 	- Extensibility. Some day we’ll care about our org/repo health too and it will be easy to add
+  - Queueing and rate limiting are handled
+  - Adding to an existing, used open source project
 Negatives:
-There’s a lot of code that does a lot of cool things, but we can only use some of them
--Github API allows traversing a user’s events, but does not have webhooks for that. Though they do have webhooks for events related to an org/repo
-Positives:
-	-Extensibility. Some day we’ll care about our org/repo health too and it will be easy to add
--Adding to an existing, used open source project
-
+  - Figuring out a large, involved codebase
+  - Can't use webhooks (probably the coolest feature) for user events which is one of the coolest parts of the crawler (only crawls when there are new events)
 ---
 # The "Interim Dashboard"
 ## This came first to get us some numbers
@@ -316,11 +314,12 @@ Positives:
 
 ???
 
-before figuring out how to get the crawler to work
-was VERY useful for counting Hacktoberfest contribs, getting a baseline, etc.
-  -if want to do something like FOSS fund, it's all you need - we're still going to use that code for it
+before figured out how crawler works - just get us some numbers
 basically just poking the github api for user events and filtering them by events we care about
-and then just put the output into a google sheet
+  and then just put the output into a google sheet
+was VERY useful for counting Hacktoberfest contribs, getting a baseline, etc.
+  -Duane will be talking about an intitiative for which we need to know who's contributed in a given month. If that's all you need, this is really all you need to do. And I'm happy to share that code (I'll open source it soon)
+
 ---
 # Events we’re measuring, and why
 
@@ -358,6 +357,7 @@ They were interested in the concept, but not in changing their project
 ???
 decided to use Indeed's OS project
   - allows you to build and query large datasets, and build tools for analysis and dashboards
+  - at Indeed, it came with a dashboard maker
 ---
 # **Contributor** Dashboard
 
@@ -376,6 +376,7 @@ class: center, middle, theEmphatic
 
 ???
 our contributors are happy to have it for reviews
+shows: weekly and total contribs, where you're contributing
 ---
 # **Aggregate** Dashboard
 
@@ -387,10 +388,16 @@ our contributors are happy to have it for reviews
 --
 ## Useful For **Improving The Program**
 
+???
+Are our initiatives working?
+
 ---
 class: center, middle, theEmphatic
 
 <img src="Images/AggregateDashboard.png" width="90%" />
+
+???
+All contribs, contribs by month, which projects, Active Recurring Participants
 ---
 # What’s next
 1. Adding other online code repositories (Bitbucket, Apache, etc.) and organization tools (Jira, Slack, etc.)
