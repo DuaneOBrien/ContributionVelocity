@@ -353,24 +353,38 @@ They were interested in the concept, but not in changing their project
 decided to use Indeed's OS project
   - allows you to build and query large datasets, and build tools for analysis and dashboards
 ---
-#Contributor Dashboard
-### allows each Indeedian to see their own contributions
-#### Useful for quarterly reviews!
+# **Contributor** Dashboard
+
+## Used by **Individuals**
+
+--
+## Provides **Contribution** Insights
+
+--
+## Useful For **Quarterly Reviews**
+
 ---
 class: center, middle, theEmphatic
 
-<img src="Images/IndividualDashboard.png" width="80%" />
+<img src="Images/IndividualDashboard.png" width="90%" />
 
 ???
 our contributors are happy to have it for reviews
 ---
-# Aggregate Dashboard
-### Used by the Open Source Program Office
-#### Allows us to keep track of contribs by all Indeedians and, therefore, how we’re doing
+# **Aggregate** Dashboard
+
+## Used by the **Open Source Program Office**
+
+--
+## Provides **Program** Insights
+
+--
+## Useful For **Strategic Planning**
+
 ---
 class: center, middle, theEmphatic
 
-<img src="Images/AggregateDashboard.png" width="80%" />
+<img src="Images/AggregateDashboard.png" width="90%" />
 ---
 # What’s next
 1. Adding other online code repositories (Bitbucket, Apache, etc.) and organization tools (Jira, Slack, etc.)
