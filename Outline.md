@@ -20,7 +20,7 @@ class: theBackground
 
 ---
 
-# About Me
+# About **Duane**
 
 
 * Past Lives :
@@ -47,19 +47,64 @@ class: theBackground
 * Next Life : 👨‍🎤+ 🧛 + 🧙‍♂️ +  🤖 = ?
 
 ---
-# Indeed's Open Source Program
+
+# About **Dani**
+
+
+* Past Lives :
+
+--
+
+ * 🧙‍♂️
+--
+
+ * 🧟‍♂️
+--
+
+ * 🤹‍♂️
+--
+
+ * 👨‍🏭
+--
+
+
+* Current Life : 👨‍🔧
+--
+
+
+* Next Life : 👨‍🎤+ 🧛 + 🧙‍♂️ +  🤖 = ?
+
+---
+# Indeed's **Open Source** Program
+--
+
+* ### Open Source Is More Than Just Software
+
+--
+
+* ### We Meet You Where You Are
+
+--
+
+* ### Predictable, Long Term Support Is The Ideal
+
 ---
 
 class: center, middle, theEmphatic
 
-# "If you can't measure it, you can't improve it." - Peter Drucker
+# To build a culture of **active** and **recurring** open source **participation**
+
+---
+
+class: middle, theEmphatic
+
+# If you can't measure it, you can't improve it - **Peter Drucker**
+
 ---
 
 class: center, middle, theEmphatic
 
-# Peter Drucker
-
-<img src="Images/LordKelvin.jpg" width="60%"  />
+<img src="Images/LordKelvin.jpg" width="80%"  />
 
 ???
 
@@ -67,15 +112,69 @@ class: center, middle, theEmphatic
 
 ---
 
-How We Measure Contributions (30 min)
+class: center, middle, theEmphatic
+
+# What Counts As A **Contribution?**
 
 ---
 
-What’s A Contribution
+# What **Not** To Measure And **Why**
+
+--
+
+## Lines of Code
+
+--
+
+ * ### Encourages Code Quantity With No Eye Toward Quality
+
+--
+
+## Contribution Counts
+
+--
+
+ * ### Competition Discourages New Contributors
+
+--
+
+ * ### Projects Have To Manage Low Quality Contributions
 
 ---
 
-Not Just Code
+# Other **Important** Considerations
+
+--
+
+## Sharing **Raw** Numbers
+--
+
+## How To Account For **Personal** Projects
+
+--
+
+## What Does **"Company Related"** Mean?
+
+---
+
+
+class: center, middle, theEmphatic
+
+# Active **Recurring** Participants
+
+---
+
+# Active **Recurring** Participants
+
+* ## **Active** - triggered an event that we care about
+
+--
+
+* ## **Recurring** - two or more days of activity
+
+--
+
+* ## **Participation** - a broad category of events
 
 ---
 
@@ -83,42 +182,38 @@ class: center, middle, theEmphatic
 
 <img src="Images/ActivityIndicator1.png" /><img src="Images/ActivityIndicator2.png" />
 
+---
+
+class: center, middle, theEmphatic
+
+<img src="Images/PeltingWithStones.jpg" width="80%"/>
+
+???
+
+Not all open source activity is on GitHub
+I have a whole talk about it.
+But it can give us an Accurate read, even if it's not very precise
+
 
 ---
 
-“Company Related”
+class: center, middle, theEmphatic
 
----
+<img src="Images/AccuracyAndPrecision.png" width="70%"/>
+
+???
 
 Potato Metrics
 
 ---
 
-GitHub Is Not Your Resume
+class: center, middle, theEmphatic
 
----
+<img src="Images/GoodOldGoogleForms.png" width="70%"/>
+
+???
 
 How we captured/capture non-github requests (and why)
-
----
-
-What Not To Measure And Why
-
----
-
-Contributions
-
----
-
-Lines of Code
-
----
-
-Default to Open - do we share the raw numbers?
-
----
-
-Active Recurring Participants
 
 ---
 class: center, middle, theEmphatic
