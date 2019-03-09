@@ -550,16 +550,6 @@ class: center, middle, theEmphatic
 
 ## Nominated Projects: **5**
 
-???
-
-october - 34
-november - 23
-december - 27
-january - 32
-february - 26
-march - 17 (but on track with Jan)
-
-
 ---
 
 # FOSS **Contributor** Fund : **March**
@@ -572,6 +562,41 @@ class: center, middle, theEmphatic
 
 
 <img src="Images/contributions-march-2019.png" width="80%" />
+
+---
+
+# Active **Recurring** Participants
+
+* ## **Active** - triggered an event that we care about
+
+* ## **Recurring** - two or more days of activity
+
+* ## **Participation** - a broad category of events
+
+---
+
+class: center, middle, theEmphatic
+
+
+<img src="Images/ActiveRecurringParticipants.png" width="80%" />
+
+---
+
+class: center, middle, theEmphatic
+
+
+<img src="Images/ContributionsInARPWindow.png" width="40%" />
+<img src="Images/ActiveRecurringParticipants.png" width="40%" />
+
+???
+
+october - 34
+november - 23
+december - 27
+january - 32
+february - 26
+march - 17 (but on track with Jan)
+
 ---
 
 class: center, middle, theEmphatic
