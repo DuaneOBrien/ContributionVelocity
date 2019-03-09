@@ -400,16 +400,35 @@ class: center, middle, theEmphatic
 # Measuring The Effect Of **Initiatives**
 
 ---
+class: center, middle, theEmphatic
 
-Hacktoberfest
+<img src="Images/Hacktoberfest-2018.png" width="80%"  />
+
+---
+class: center, middle, theEmphatic
+
+<img src="Images/contributions-october-2018.png" width="80%" />
 
 ---
 
-The November Lull
+class: center, middle, theEmphatic
+
+# The November Lull
 
 ---
+class: center, middle, theEmphatic
 
-24 Pull Requests
+<img src="Images/contributions-november-2018.png" width="80%" />
+
+---
+class: center, middle, theEmphatic
+
+<img src="Images/24PullRequests.png" width="80%"  />
+
+---
+class: center, middle, theEmphatic
+
+<img src="Images/contributions-december-2018.png" width="80%" />
 
 ---
 class: center, middle, theEmphatic
