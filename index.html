@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sustaining FOSS Projects By Democratizing The Sponsorship Process</title>
+    <meta charset="utf-8">
+    <style>
+
+      /* colors
+      Light Orange Background: #fff8e7
+      Light Grey Background:
+      Blue Text: 2263f0
+      Orange Text: f60
+
+      */
+
+      html {
+        --primary-highlight: #2263f0;
+/*        --highlight-background: #333333; */
+        --highlight-background: #fff8e7;
+        --secondary-highlight: #f60;
+      }
+
+      .theBackground {
+        background-color: white;
+        color: black;
+      }
+
+      .theEmphatic {
+      }
+
+      .theEmphatic h6{
+        font-size: 128px;
+        margin: 0px;
+      }
+
+      body {
+        font-family: "Avenir Next", sans-serif;
+      }
+
+      li {
+        font-weight: 400;
+        font-size: 30px;
+      }
+
+      a:link, a:visited {
+        color: #2263f0;
+        font-weight: 700
+      }
+
+      strong {
+        font-weight: inherit;
+        color: var(--secondary-highlight);
+      }
+
+      h1 {
+        text-transform: uppercase;
+        color: var(--primary-highlight);
+      }
+      h1, h2 {
+        font-family: "Avenir Next", sans-serif;
+        font-weight: 600;
+        color: var(--primary-highlight);
+      }
+      h3 {
+        font-family: "Avenir Next", sans-serif;
+        font-weight: 500;
+        color: var(--secondary-highlight);
+        margin-top: 5px;
+        margin-bottom: 5px;
+      }
+      h4 {
+        font-family: "Avenir Next", sans-serif;
+        font-weight: 400;
+        color: var(--primary-highlight);
+        margin-top: 5px;
+        margin-bottom: 5px;
+      }
+      .remark-code, .remark-inline-code, .footnote {
+        font-family: "Avenir Next", sans-serif;
+      }
+      .footnote {
+        position:absolute;
+        bottom: .7em;
+        left: 20em;
+        font-size: 1.0em !important;
+       }
+       .footnote-bg {
+         background-color: var(--highlight-background);
+         position:absolute;
+         display:block;
+         width:100%;
+         height: 9%;
+         top: 91%;
+         left:0px;
+        }
+
+        table {
+          width:100%;
+        }
+        td {
+          font-family: "Avenir Next", sans-serif;
+          font-weight: 600;
+          color: var(--primary-highlight);
+          font-size: 45px;
+
+        }
+    </style>
+  </head>
+  <body>
+    <script src="Assets/js/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create({
+        ratio: '16:9',
+        sourceUrl: 'Outline.md'
+      });
+    </script>
+  </body>
+</html>
