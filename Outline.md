@@ -45,6 +45,65 @@ class: theBackground
 
 ---
 
+Program Goals And Philosophy Overview (5 min)
+
+---
+
+“You will encourage the behavior you measure”
+
+---
+How We Measure Contributions (30 min)Le
+
+---
+
+What’s A Contribution
+
+---
+
+Not Just Code
+
+---
+
+GitHub’s New Cross Indicator
+
+---
+
+“Company Related”
+
+---
+
+Potato Metrics
+
+---
+
+GitHub Is Not Your Resume
+
+---
+
+How we captured/capture non-github requests (and why)
+
+---
+
+What Not To Measure And Why
+
+---
+
+Contributions
+
+---
+
+Lines of Code
+
+---
+
+Default to Open - do we share the raw numbers?
+
+---
+
+Active Recurring Participants
+
+---
+
 class: center, middle, theEmphatic
 
 <img src="Images/FOSSContributorFund-Rectangle.png"  />
@@ -141,6 +200,54 @@ class: center, middle, theEmphatic
 ## Nominated Projects: **20** Total - 5 **Unknown** 🕵️‍♀️
 
 ## Participation: **TBD** 🤷‍♂️ 🐥
+
+---
+
+What Effect Our Initiatives Have (15)
+
+---
+
+Hacktoberfest
+
+---
+
+The November Lull
+
+---
+
+24 Pull Requests
+
+---
+
+FOSS Contributor Fund
+
+---
+
+First Time Contributors
+
+---
+
+Hackathon
+
+---
+
+Outliers
+
+---
+
+The effect on measuring contributions
+
+---
+
+The effect on measuring contributors
+
+---
+
+The effect over time
+
+---
+
+Conclusion (5 min)
 
 ---
 class: center, middle, theEmphatic
