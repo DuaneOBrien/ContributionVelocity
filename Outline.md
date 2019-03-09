@@ -251,20 +251,26 @@ How we captured/capture non-github requests (and why)
 ---
 class: center, middle, theEmphatic
 
-# Tooling
---
-
- ## The Challenge (and opportunity)
- ### We’re measuring something different
+## Tools We **Looked** At, **Implemented**, And **Built**
 
 ---
-class: center, middle, theEmphatic
-## We’re measuring something different
-### Indeed Employee (User) contributions
-### vs.
-### Indeed's Open Source (Org/Repo) health
 
-####Many open source tools for measuring the latter, but None for the former
+# The Challenge (and **Opportunity**)
+## We’re measuring something different
+
+--
+### **What Existing Tools Measure:** Open Source Project Health
+
+--
+ * Org/Repo Focused
+
+--
+
+### **What We Want:** Indeed Employee Contributions
+
+--
+ * User Focused
+
 ???
 How can we help the Open Source community vs. how much does the Open Source community care about our project
 
@@ -276,12 +282,15 @@ We care about Indeedians contributing out. Want to measure contributions
 ---
 class: center, middle, theEmphatic
 
-# Existing Tools
+<img src="Images/AwesomeTools.png" width="80%" />
 
-<img src="Images/XKCDstandards.png"  />
+#### https://github.com/todogroup/awesome-oss-mgmt#github-metrics-and-dashboards
 
+---
+class: center, middle, theEmphatic
 
-#### None of these tools do what we want- but can they be adapted?
+<img src="Images/XKCDstandards.png" width="80%" />
+
 
 ???
 Looked at 4 or 5 different tools- Netflix OSS Dashboard, Amazon's OSS Dashboard, Bitergia
