@@ -379,7 +379,7 @@ our contributors are happy to have it for reviews
 ## Provides **Program** Insights
 
 --
-## Useful For **Strategic Planning**
+## Useful For **Improving The Program**
 
 ---
 class: center, middle, theEmphatic
