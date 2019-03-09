@@ -188,6 +188,19 @@ But it can give us an Accurate read, even if it's not very precise
 
 class: center, middle, theEmphatic
 
+<img src="Images/GitHubTalk.png" width="80%"/>
+
+???
+
+Not all open source activity is on GitHub
+I have a whole talk about it.
+But it can give us an Accurate read, even if it's not very precise
+
+
+---
+
+class: center, middle, theEmphatic
+
 <img src="Images/AccuracyAndPrecision.png" width="70%"/>
 
 ???
