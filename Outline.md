@@ -1,10 +1,13 @@
 
 class: center, middle, theBackground
 
-# Your Company Cares About Open Source Sustainability. But Are You Measuring Your Contributions?
-## **Duane O'Brien, Dani Gellis, ** indeed.com
-#### **@DuaneOBrien, @Danisyellis**
-#### **Permissions** Granted : 📸  📹  📰  📬  🐦
+## Your Company Cares About **FOSS Sustainability**
+## But Are You **Measuring** Your Contributions?
+&nbsp;
+### **Duane O'Brien** - Head of Open Source - indeed.com
+### **Dani Gellis** - Software Engineer - indeed.com
+&nbsp;
+### **Permissions** Granted : 📸  📹  📰  📬  🐦
 
 ---
 
@@ -13,7 +16,7 @@ class: theBackground
 
 .footnote-bg[]
 
-.footnote[@DuaneOBrien | duaneo@indeed.com | Made with [Remark](http://remarkjs.com/)]
+.footnote[@DuaneOBrien | @DanisYellis | Made with [Remark](http://remarkjs.com/)]
 
 ---
 
