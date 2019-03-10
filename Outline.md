@@ -473,6 +473,10 @@ However, we do have a form for people to tell us about their other contribs
 --
 3. Tracking IndeedEng repo and org health
 
+???
+(the metric everyone else is tracking) - we do care if we’re contributing to the OS community that way
+- Track inbound requests, for example
+
 --
 4. More filtering of events (do some repos have more weight?)
  * Projects Indeed uses
@@ -480,11 +484,6 @@ However, we do have a form for people to tell us about their other contribs
 
 --
 5. A toggle to put in and take out Indeed-owned projects
-
-
-???
-(the metric everyone else is tracking) - we do care if we’re contributing to the OS community that way
-- Track inbound requests, for example
 
 ---
 
