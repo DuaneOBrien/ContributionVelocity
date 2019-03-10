@@ -251,20 +251,13 @@ How we captured/capture non-github requests (and why)
 ---
 class: center, middle, theEmphatic
 
-# Tooling
---
-
- ## The Challenge (and opportunity)
- ### We’re measuring something different
+## Tools We **Looked** At, **Implemented**, And **Built**
 
 ---
-class: center, middle, theEmphatic
-## We’re measuring something different
-### Indeed Employee (User) contributions
-### vs.
-### Indeed's Open Source (Org/Repo) health
 
-####Many open source tools for measuring the latter, but None for the former
+# The Challenge (and **Opportunity**)
+## We’re measuring something different
+
 ???
 How can we help the Open Source community vs. how much does the Open Source community care about our project
 
@@ -272,53 +265,100 @@ Everyone else is measuring their projects and contribution activity for them.
 
 We care about Indeedians contributing out. Want to measure contributions
 
+--
+### **What Existing Tools Measure:** Open Source Project Health
+
+--
+ * Org/Repo Focused
+
+--
+
+### **What We Want:** Indeed Employee Contributions
+
+--
+ * User Focused
 
 ---
 class: center, middle, theEmphatic
 
-# Existing Tools
+<img src="Images/AwesomeTools.png" width="80%" />
 
-<img src="Images/XKCDstandards.png"  />
-
-
-#### None of these tools do what we want- but can they be adapted?
+#### https://github.com/todogroup/awesome-oss-mgmt#github-metrics-and-dashboards
 
 ???
 Looked at 4 or 5 different tools- Netflix OSS Dashboard, Amazon's OSS Dashboard, Bitergia
-  They are all Org/Project oriented, not User
-    Getting all users for an ORG gives us some people we don't care about
-    And misses some indeed employees
-      who contribute to OS, but not with Indeed
+
+They are all Org/Project oriented, not User
+
+Getting all users for an ORG gives us some people we don't care about
+
+And misses some indeed employees
+
+who contribute to OS, but not with Indeed
+
+---
+class: center, middle, theEmphatic
+
+<img src="Images/XKCDstandards.png" width="80%" />
+
 ---
 # Microsoft’s Github Crawler
-### Gets information about events on GitHub
-#### But, it's Org/Repo focused
-####  Yes, we _CAN_ adapt it
-##### Pros and Cons
+
 ???
 Started with github because there are lots of tools for it, it has a robust API, and it’s where most, though not all, of the contributing is happening anyway
+
 Bitergia has a solution that looks at more than just github, but,
  crawler seemed easiest. In JS, which is what I know and I was the only engineer (growing team)
+--
+### Gets information about events on GitHub
 
- Positives:
- 	- Extensibility. Some day we’ll care about our org/repo health too and it will be easy to add
-  - Queueing and rate limiting are handled
-  - Adding to an existing, used open source project
-Negatives:
-  - Figuring out a large, involved codebase
-  - Can't use webhooks (probably the coolest feature) for user events which is one of the coolest parts of the crawler (only crawls when there are new events)
+--
+* #### But, it's Org/Repo focused
+
+--
+* ####  Yes, we _CAN_ adapt it
+
 ---
-# The "Interim Dashboard"
+# Microsoft’s Github Crawler
+
+### Gets information about events on GitHub
+
+* #### But, it's Org/Repo focused
+
+* ####  Yes, we _CAN_ adapt it
+
+* #### Pros and Cons
+
+???
+**Positives:**
+
+Extensibility. Some day we’ll care about our org/repo health too and it will be easy to add
+
+Queueing and rate limiting are handled
+
+Adding to an existing, used open source project
+
+**Negatives:**
+
+Figuring out a large, involved codebase
+
+Can't use webhooks (probably the coolest feature) for user events which is one of the coolest parts of the crawler (only crawls when there are new events)
+---
+# The **Interim** Dashboard
 ## This came first to get us some numbers
 ### Nothing to look at, but very useful!
 
 ???
 
 before figured out how crawler works - just get us some numbers
+
 basically just poking the github api for user events and filtering them by events we care about
-  and then just put the output into a google sheet
+
+**and then just put the output into a google sheet**
+
 was VERY useful for counting Hacktoberfest contribs, getting a baseline, etc.
-  -Duane will be talking about an intitiative for which we need to know who's contributed in a given month. If that's all you need, this is really all you need to do. And I'm happy to share that code (I'll open source it soon)
+
+  **Duane will be talking about an intitiative for which we need to know who's contributed in a given month. If that's all you need, this is really all you need to do. And I'm happy to share that code (I'll open source it soon)**
 
 ---
 # Events we’re measuring, and why
@@ -334,30 +374,46 @@ was VERY useful for counting Hacktoberfest contribs, getting a baseline, etc.
 
 ???
 Not just code, also comments and Reviews
+
 Not push events because
-  - probably personal projects
-  - not good open source hygiene
+
+**probably personal projects**
+
+**not good open source hygiene**
 ---
 # Dashboard Solutions
 ## Tried MeasureOSS
-### It was also Org/Repo focused
-#### and adding user views would have made everything more confusing
+
 ???
 Once we had the contribs, need to show them somehow
+
 Measure:
+
 An important part of open source work- make sure the upstream wants the change!
+
 They were interested in the concept, but not in changing their project
+--
+* ### It was also Org/Repo focused
+
+--
+* ### Adding user views would have been confusing
 ---
 # Dashboard Solutions
-## Use Imhotep and IQL (Imhotep Query Language)
-* 2 Different Dashboards
-  * Individual Contributor Dashboard
-  * Aggregate Dashboard
+## Use **Imhotep** and **IQL** (Imhotep Query Language)
 
 ???
 decided to use Indeed's OS project
-  - allows you to build and query large datasets, and build tools for analysis and dashboards
-  - at Indeed, it came with a dashboard maker
+
+**allows you to build and query large datasets, and build tools for analysis and dashboards**
+
+**at Indeed, it came with a dashboard maker**
+
+Already extensively used within Indeed
+--
+* ### 2 Different Dashboards
+  * #### **Contributor** Dashboard
+  * #### **Aggregate** Dashboard
+
 ---
 # **Contributor** Dashboard
 
@@ -417,6 +473,10 @@ However, we do have a form for people to tell us about their other contribs
 --
 3. Tracking IndeedEng repo and org health
 
+???
+(the metric everyone else is tracking) - we do care if we’re contributing to the OS community that way
+- Track inbound requests, for example
+
 --
 4. More filtering of events (do some repos have more weight?)
  * Projects Indeed uses
@@ -424,11 +484,6 @@ However, we do have a form for people to tell us about their other contribs
 
 --
 5. A toggle to put in and take out Indeed-owned projects
-
-
-???
-(the metric everyone else is tracking) - we do care if we’re contributing to the OS community that way
-- Track inbound requests, for example
 
 ---
 
