@@ -258,6 +258,13 @@ class: center, middle, theEmphatic
 # The Challenge (and **Opportunity**)
 ## We’re measuring something different
 
+???
+How can we help the Open Source community vs. how much does the Open Source community care about our project
+
+Everyone else is measuring their projects and contribution activity for them.
+
+We care about Indeedians contributing out. Want to measure contributions
+
 --
 ### **What Existing Tools Measure:** Open Source Project Health
 
@@ -271,14 +278,6 @@ class: center, middle, theEmphatic
 --
  * User Focused
 
-???
-How can we help the Open Source community vs. how much does the Open Source community care about our project
-
-Everyone else is measuring their projects and contribution activity for them.
-
-We care about Indeedians contributing out. Want to measure contributions
-
-
 ---
 class: center, middle, theEmphatic
 
@@ -286,36 +285,64 @@ class: center, middle, theEmphatic
 
 #### https://github.com/todogroup/awesome-oss-mgmt#github-metrics-and-dashboards
 
+???
+Looked at 4 or 5 different tools- Netflix OSS Dashboard, Amazon's OSS Dashboard, Bitergia
+
+They are all Org/Project oriented, not User
+
+Getting all users for an ORG gives us some people we don't care about
+
+And misses some indeed employees
+
+who contribute to OS, but not with Indeed
+
 ---
 class: center, middle, theEmphatic
 
 <img src="Images/XKCDstandards.png" width="80%" />
 
-
-???
-Looked at 4 or 5 different tools- Netflix OSS Dashboard, Amazon's OSS Dashboard, Bitergia
-  They are all Org/Project oriented, not User
-    Getting all users for an ORG gives us some people we don't care about
-    And misses some indeed employees
-      who contribute to OS, but not with Indeed
 ---
 # Microsoft’s Github Crawler
-### Gets information about events on GitHub
-#### But, it's Org/Repo focused
-####  Yes, we _CAN_ adapt it
-##### Pros and Cons
+
 ???
 Started with github because there are lots of tools for it, it has a robust API, and it’s where most, though not all, of the contributing is happening anyway
+
 Bitergia has a solution that looks at more than just github, but,
  crawler seemed easiest. In JS, which is what I know and I was the only engineer (growing team)
+--
+### Gets information about events on GitHub
 
- Positives:
- 	- Extensibility. Some day we’ll care about our org/repo health too and it will be easy to add
-  - Queueing and rate limiting are handled
-  - Adding to an existing, used open source project
-Negatives:
-  - Figuring out a large, involved codebase
-  - Can't use webhooks (probably the coolest feature) for user events which is one of the coolest parts of the crawler (only crawls when there are new events)
+--
+* #### But, it's Org/Repo focused
+
+--
+* ####  Yes, we _CAN_ adapt it
+
+---
+# Microsoft’s Github Crawler
+
+### Gets information about events on GitHub
+
+* #### But, it's Org/Repo focused
+
+* ####  Yes, we _CAN_ adapt it
+
+* #### Pros and Cons
+
+???
+**Positives:**
+
+Extensibility. Some day we’ll care about our org/repo health too and it will be easy to add
+
+Queueing and rate limiting are handled
+
+Adding to an existing, used open source project
+
+**Negatives:**
+
+Figuring out a large, involved codebase
+
+Can't use webhooks (probably the coolest feature) for user events which is one of the coolest parts of the crawler (only crawls when there are new events)
 ---
 # The "Interim Dashboard"
 ## This came first to get us some numbers
